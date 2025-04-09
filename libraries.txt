@@ -1,0 +1,23 @@
+## These libraries are for WEB-SCRAPING
+requests
+beautifulsoup4 
+pandas
+
+# For working with links and LLLM (ChatGPT API/Model)
+newspaper3k
+langchain
+openai
+
+# For Embeddings
+sentence-transformers
+faiss-cpu
+
+# For AOI/Web App
+gradio 
+fastapi 
+uvicorn
+flask
+
+# Deployemnet 
+streamlit
+lxml_html_clean
